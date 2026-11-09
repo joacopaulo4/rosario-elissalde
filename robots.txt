@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosarioelissalde.netlify.app/sitemap.xml
